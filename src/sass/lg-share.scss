@@ -140,4 +140,12 @@
             }
         }
     }
+    #lg-share-whatsapp {
+        .lg-icon{
+            color: #25d366;
+            &:after {
+                content: "\ea93";
+            }
+        }
+    }
 }
